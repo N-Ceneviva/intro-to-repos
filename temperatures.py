@@ -1,4 +1,3 @@
-# Databricks notebook source
 from my_lib.my_funcs import *
 
 # COMMAND ----------
