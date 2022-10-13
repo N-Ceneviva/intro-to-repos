@@ -1,3 +1,5 @@
+# Databricks notebook source
+
 from my_lib.my_funcs import *
 
 # COMMAND ----------
@@ -36,3 +38,4 @@ display(df.select(convertFtoC("unit", "temp")))
 # COMMAND ----------
 
 print('test')
+print('Office Hours')
