@@ -1,4 +1,8 @@
 # Databricks notebook source
+# MAGIC %md
+# MAGIC # This is a test
+
+# COMMAND ----------
 
 from my_lib.my_funcs import *
 
